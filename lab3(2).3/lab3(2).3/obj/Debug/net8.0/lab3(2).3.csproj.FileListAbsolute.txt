@@ -1,0 +1,15 @@
+C:\Users\НастЕна\Desktop\oop_2024\Lab_number3.2\Lab3.2masivu\lab3(2).3\lab3(2).3\bin\Debug\net8.0\lab3(2).3.exe
+C:\Users\НастЕна\Desktop\oop_2024\Lab_number3.2\Lab3.2masivu\lab3(2).3\lab3(2).3\bin\Debug\net8.0\lab3(2).3.deps.json
+C:\Users\НастЕна\Desktop\oop_2024\Lab_number3.2\Lab3.2masivu\lab3(2).3\lab3(2).3\bin\Debug\net8.0\lab3(2).3.runtimeconfig.json
+C:\Users\НастЕна\Desktop\oop_2024\Lab_number3.2\Lab3.2masivu\lab3(2).3\lab3(2).3\bin\Debug\net8.0\lab3(2).3.dll
+C:\Users\НастЕна\Desktop\oop_2024\Lab_number3.2\Lab3.2masivu\lab3(2).3\lab3(2).3\bin\Debug\net8.0\lab3(2).3.pdb
+C:\Users\НастЕна\Desktop\oop_2024\Lab_number3.2\Lab3.2masivu\lab3(2).3\lab3(2).3\obj\Debug\net8.0\lab3(2).3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\НастЕна\Desktop\oop_2024\Lab_number3.2\Lab3.2masivu\lab3(2).3\lab3(2).3\obj\Debug\net8.0\lab3(2).3.AssemblyInfoInputs.cache
+C:\Users\НастЕна\Desktop\oop_2024\Lab_number3.2\Lab3.2masivu\lab3(2).3\lab3(2).3\obj\Debug\net8.0\lab3(2).3.AssemblyInfo.cs
+C:\Users\НастЕна\Desktop\oop_2024\Lab_number3.2\Lab3.2masivu\lab3(2).3\lab3(2).3\obj\Debug\net8.0\lab3(2).3.csproj.CoreCompileInputs.cache
+C:\Users\НастЕна\Desktop\oop_2024\Lab_number3.2\Lab3.2masivu\lab3(2).3\lab3(2).3\obj\Debug\net8.0\lab3(2).3.sourcelink.json
+C:\Users\НастЕна\Desktop\oop_2024\Lab_number3.2\Lab3.2masivu\lab3(2).3\lab3(2).3\obj\Debug\net8.0\lab3(2).3.dll
+C:\Users\НастЕна\Desktop\oop_2024\Lab_number3.2\Lab3.2masivu\lab3(2).3\lab3(2).3\obj\Debug\net8.0\refint\lab3(2).3.dll
+C:\Users\НастЕна\Desktop\oop_2024\Lab_number3.2\Lab3.2masivu\lab3(2).3\lab3(2).3\obj\Debug\net8.0\lab3(2).3.pdb
+C:\Users\НастЕна\Desktop\oop_2024\Lab_number3.2\Lab3.2masivu\lab3(2).3\lab3(2).3\obj\Debug\net8.0\lab3(2).3.genruntimeconfig.cache
+C:\Users\НастЕна\Desktop\oop_2024\Lab_number3.2\Lab3.2masivu\lab3(2).3\lab3(2).3\obj\Debug\net8.0\ref\lab3(2).3.dll
